@@ -1,0 +1,2 @@
+texto = "ejemplo"
+print(texto)
